@@ -1,0 +1,24 @@
+button {
+    padding: 8px 15px;
+    border: 1px solid teal;
+    background: black;
+    opacity: 1;
+    cursor: pointer;
+    color: azure;
+    margin: 20px 0;
+    transition: opacity 0.1s linear;
+    position: absolute;
+    top: 5px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    color: green;
+}
